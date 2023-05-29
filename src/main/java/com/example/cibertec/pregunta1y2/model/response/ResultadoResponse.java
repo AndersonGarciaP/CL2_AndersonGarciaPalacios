@@ -1,4 +1,4 @@
-package com.example.cl1.daw2.demo.model.response;
+package com.example.cibertec.pregunta1y2.model.response;
 
 import lombok.Builder;
 import lombok.Getter;

@@ -1,5 +1,4 @@
-package com.example.cl1.daw2.demo.model.bd;
-
+package com.example.cibertec.pregunta1y2.model.bd;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import lombok.Getter;
